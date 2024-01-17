@@ -1,0 +1,4 @@
+npx json-server -h localhost -p 3500 -w data/db.json 
+
+-h host (default : localhost)
+-p port (default : 3000)
