@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "checked": false,
+      "item": "milk"
+    },
+    {
+      "id": "2",
+      "checked": false,
+      "item": "chocco"
+    },
+    {
+      "id": "21",
+      "checked": false,
+      "item": "potato"
+    },
+    {
+      "id": "211",
+      "checked": false,
+      "item": "onions"
+    },
+    {
+      "id": "2111",
+      "checked": false,
+      "item": "garlic"
+    },
+    {
+      "id": "21111",
+      "checked": false,
+      "item": "rice"
+    }
+  ]
+}
